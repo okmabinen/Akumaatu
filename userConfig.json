@@ -1,11 +1,11 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "6hKoftGx67SSer8fT7hTbJazYBnbrYWK7QpnN6pSqacq"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "network": "devnet",
+  "xApiKey": "mw_ArQW4q0VxWYqzm8boX4OOP9PBzBkgRW3Lzn",
+  "serviceFee": 3,
+  "currencyOption": "USDC",
+  "name": "FirstPasar",
+  "logo": "https://collections.mirrorworld.fun/1677934998531-20694-monkey-d-luffy-one-piece-1920x1080-anime-wallpaper.png"
 }

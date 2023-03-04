@@ -1,7 +1,6 @@
 import type { NextPage } from "next";
 import Head from "next/head";
 import Image from "next/image";
-import styles from "../styles/Home.module.less";
 
 import { Button } from "antd-mobile";
 import Search from "./components/search";

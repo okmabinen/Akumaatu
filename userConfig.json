@@ -1,11 +1,11 @@
 {
   "collections": [
-    "6hKoftGx67SSer8fT7hTbJazYBnbrYWK7QpnN6pSqacq"
+    "32K6a37Rhu6orFAUQCDu7cqtEs3qbz3MSsGfShaAbe8z"
   ],
   "network": "devnet",
-  "xApiKey": "mw_ArQW4q0VxWYqzm8boX4OOP9PBzBkgRW3Lzn",
-  "serviceFee": 3,
+  "xApiKey": "mw_99pArbexGyIvl0vhxPmTLAXpBeZB1d74WqK",
+  "serviceFee": 4.22,
   "currencyOption": "USDC",
-  "name": "FirstPasar",
-  "logo": "https://collections.mirrorworld.fun/1677934998531-20694-monkey-d-luffy-one-piece-1920x1080-anime-wallpaper.png"
+  "name": "Nisamarket Portal",
+  "logo": "https://collections.mirrorworld.fun/1677895923296-Banner.jpg"
 }
